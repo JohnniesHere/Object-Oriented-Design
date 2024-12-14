@@ -1,0 +1,21 @@
+[
+  {
+    "type": "Square",
+    "area": 25.0,
+    "length": 5.0,
+    "perimeter": 20.0
+  },
+  {
+    "type": "Circle",
+    "area": 50.26548245743669,
+    "radius": 4.0,
+    "perimeter": 25.132741228718345
+  },
+  {
+    "type": "Triangle",
+    "area": 7.5,
+    "base": 5.0,
+    "perpendicular": 3.0,
+    "perimeter": 12.810249675906654
+  }
+]

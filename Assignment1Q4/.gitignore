@@ -2,7 +2,6 @@
 .idea/
 *.iws
 *.iml
-*.xml
 *.ipr
 out/
 !**/src/main/**/out/
